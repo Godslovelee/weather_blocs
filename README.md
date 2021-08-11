@@ -1,3 +1,6 @@
+## A sample flutter weather app tutorial, show casing how flutter blocs
+are implemented as a state management solution to aid the seperation of business logic
+from the widget tree
 
 ## Initialization
 ```dart
